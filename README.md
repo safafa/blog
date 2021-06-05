@@ -9,7 +9,7 @@ Built With
 ## Getting Started
 
 To get the local copy of this project you just need to clone it by running the following command from your terminal :
-- git clone https://github.com/safafa/re-former/tree/form1
+- git clone https://github.com/safafa/blog.git
 - make sure you have rails already installed in your machine
 
 ## Installation :
